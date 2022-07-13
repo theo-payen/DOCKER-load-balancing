@@ -7,3 +7,4 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docke
 
 apt update 
 apt install docker-ce docker-ce-cli containerd.io
+apt install docker-ce docker-compose -y
