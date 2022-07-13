@@ -10,6 +10,7 @@
     </head>
     <body>
         <h1>Docker load balancing</h1>
+        <h2>Hostname:<?php echo gethostname();?></h2>
         <img src="img/logo.png">
     </body>
 </html>
