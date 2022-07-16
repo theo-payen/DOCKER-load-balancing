@@ -1,5 +1,5 @@
 # DOCKER-load-balancing
-load-balancing via Ngnix
+load-balancing via docker
 
 install packet in docker_install.sh
 
